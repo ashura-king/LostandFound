@@ -1,6 +1,7 @@
 <x-guest-layout>
-  <div class="h-[60vh] flex items-center justify-center bg-gray-100 px-4">
-    <div class="w-full max-w-sm bg-white p-4 rounded-lg shadow-md">
+  <div class="h-[70vh] flex items-center justify-center bg-gray-100 px-4">
+    <div class="w-full max-w-sm bg-white p-6 rounded-lg shadow-md space-y-4 min-h-[400px]">
+
       <!-- Header -->
       <div class="text-center mb-6">
         <h1 class="text-xl font-semibold text-gray-900">Lost & Found</h1>
