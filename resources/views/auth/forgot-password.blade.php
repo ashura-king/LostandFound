@@ -1,5 +1,5 @@
 <x-guest-layout>
-  <div class="min-h-screen flex items-center justify-center bg-white py-12 px-4 sm:px-6 lg:px-8">
+  <div class="h-[80vh] flex items-center justify-center bg-white py-6 px-4 sm:px-6 lg:px-8">
 
     <div class="max-w-md w-full space-y-5">
       <!-- Header -->
