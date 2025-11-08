@@ -1,7 +1,7 @@
 <x-guest-layout>
-  <div class="h-[80vh] flex items-center justify-center bg-white py-6 px-4 sm:px-6 lg:px-8">
+  <div class="h-[70vh] flex items-center justify-center bg-gray-100 px-4">
+    <div class="w-full max-w-sm bg-white p-6 rounded-lg shadow-md min-h-[400px] space-y-4">
 
-    <div class="max-w-md w-full space-y-5">
       <!-- Header -->
       <div>
         <div class="mx-auto h-12 w-12 bg-blue-500 rounded-full flex items-center justify-center">

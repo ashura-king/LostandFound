@@ -1,6 +1,7 @@
 <x-guest-layout>
-  <div class="h-[60vh] flex items-center justify-center bg-gray-100">
-    <div class="bg-white p-4 rounded-lg shadow-md w-full max-w-sm">
+  <div class="h-[70vh] flex items-center justify-center bg-gray-100 px-4">
+    <div class="w-full max-w-sm bg-white p-6 rounded-lg shadow-md min-h-[400px] space-y-4">
+
       <h2 class="text-2xl font-bold text-gray-800 text-center mb-4">Create Account</h2>
 
       <form method="POST" action="{{ route('register') }}">
